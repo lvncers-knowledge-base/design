@@ -1,6 +1,6 @@
 # Google — Material Design 3 (Material You)
 
-m3.material.io
+[m3.material.io](https://m3.material.io/)
 
 ## 4つの核心原則
 
